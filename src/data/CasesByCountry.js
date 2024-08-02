@@ -7,7 +7,7 @@ const response = axios({
   headers: {
     "content-type": "application/octet-stream",
     "x-rapidapi-host": "coronavirus-monitor.p.rapidapi.com",
-    "x-rapidapi-key": "9fa81f803amshe5bd3628b190ceep12b1c1jsn6e9933a9f010"
+    "x-rapidapi-key": "KEY"
   }
 });
 
